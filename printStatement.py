@@ -1,0 +1,7 @@
+print ("My name is Janice.")
+print ("I enjoy reading and playing guitar.")
+print ("I go to St. Aug.")
+print ("My favorite sport is volleyball.")
+print ("I am 16 years old.")
+print ("How old are you?\nI am 16 years old")
+print (5+3)
