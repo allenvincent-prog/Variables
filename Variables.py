@@ -1,0 +1,6 @@
+print ("Registration form")
+name=input("What is your name?")
+age=input("What is your age?")
+school=input("What school do you attend?")
+city=input("What city do you live in?")
+print("Your name is",name,". Your age is",age,". You attend",school,". You live in",city,".")
